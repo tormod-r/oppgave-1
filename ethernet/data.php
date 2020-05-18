@@ -14,7 +14,8 @@ echo "error is ".mysqli_error($con );
 ?>
 <html>
 
-<body>
-    <br>
-    <a href="display.php">vis data</a>
-</body></html>
+    <body>
+        <br>
+        <a href="display.php">vis data</a>
+    </body>
+</html>
